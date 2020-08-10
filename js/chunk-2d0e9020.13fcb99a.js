@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9020"],{"8c65":function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"NotFound"},[t._v(" 找不到该网页，错误代码：404 "),e("router-link",{attrs:{to:"/luckyit"}},[t._v("回到首页")])],1)},c=[],u={name:"NotFound",data:function(){return{}},components:{},methods:{}},a=u,s=e("2877"),r=Object(s["a"])(a,o,c,!1,null,"21822dca",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0e9020.13fcb99a.js.map
